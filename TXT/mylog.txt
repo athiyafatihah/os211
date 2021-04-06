@@ -35,8 +35,17 @@ ZCZC W03 10 L03 GitHub related
 ZCZC W03 15 L05 GSGS related
 ZCZC W03 10 L09 AsDos: asking, etc
 ZCZC W03 45 L23 Discord: discusion, etc
-ZCZC W04 60 L13 Assignment #4
+ZCZC W04 60 L14 Assignment #4
 ZCZC W04 100 L02 ZOOM related
 ZCZC W04 30 L03 GitHub related
 ZCZC W04 90 L05 GSGS related
 ZCZC W04 105 L23 Discord: discussion, etc
+ZCZC W05 40 L00 General Log
+ZCZC W05 120 L02 ZOOM
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 70 L10 Assignment (General)
+ZCZC W05 100 L05 GSGS related
+ZCZC W05 120 L15 Assignment #5
+ZCZC W05 45 L27 Pets: feeding, playing, etc
+ZCZC W05 60 L22 YouTube: study, etc.
+
