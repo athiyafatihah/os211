@@ -11,3 +11,6 @@ ZCZC W03 bltszr
 ZCZC W04 bimabr
 ZCZC W04 azkafitria
 ZCZC W04 basyirasabita
+ZCZC W05 bltszr
+ZCZC W05 azricot
+ZCZC W05 basyirasabita
