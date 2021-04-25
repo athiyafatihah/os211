@@ -54,4 +54,7 @@ ZCZC W06 40 L23 Discord
 ZCZC W06 15 L27 Pets: feeding, playing, etc
 ZCZC W06 180 L22 YouTube: study, relax, entertainment, etc.
 ZCZC W06 10 L06 Reading References/Books/Documents
+ZCZC W06 90 L23 Discord: discusion, etc
+ZCZC W06 30 L16 Assignment #6
+ZCZC W06 15 L27 Pets: feeding, playing, etc
 
