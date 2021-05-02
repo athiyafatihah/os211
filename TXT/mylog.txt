@@ -65,4 +65,5 @@ ZCZC W07 60 L05 GSGS related
 ZCZC W07 45 L17 Assignment #7
 ZCZC W07 15 L27 Pets: feeding, playing, etc
 ZCZC W07 40 L22 YouTube: study, etc.
+ZCZC W07 60 L26 Movie: relax, etc.
 
