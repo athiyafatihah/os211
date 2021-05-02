@@ -57,4 +57,12 @@ ZCZC W06 10 L06 Reading References/Books/Documents
 ZCZC W06 90 L23 Discord: discusion, etc
 ZCZC W06 30 L16 Assignment #6
 ZCZC W06 15 L27 Pets: feeding, playing, etc
+ZCZC W07 100 L00 General Log
+ZCZC W07 10 L09 AsDos: asking, etc
+ZCZC W07 35 L01 SCELE related
+ZCZC W07 75 L03 GitHub related
+ZCZC W07 60 L05 GSGS related
+ZCZC W07 45 L17 Assignment #7
+ZCZC W07 15 L27 Pets: feeding, playing, etc
+ZCZC W07 40 L22 YouTube: study, etc.
 
