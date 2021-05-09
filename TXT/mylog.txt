@@ -67,7 +67,12 @@ ZCZC W07 15 L27 Pets: feeding, playing, etc
 ZCZC W07 40 L22 YouTube: study, etc.
 ZCZC W07 60 L26 Movie: relax, etc.
 ZCZC W08 85 L00 General Log
-ZCZC W08 15 SCELE related
+ZCZC W08 15 L01 SCELE related
 ZCZC W08 100 L02 ZOOM
-
+ZCZC W08 150 L18 Assignment #8
+ZCZC W08 35 L05 GSGS related
+ZCZC W08 70 L22 YouTube: study, etc.
+ZCZC W08 30 L27 Pets: feeding, playing, etc
+ZCZC W08 60 L03 GitHub related
+ZCZC W08 30 L23 Discord: discusion, etc
 
