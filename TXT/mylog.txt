@@ -75,4 +75,5 @@ ZCZC W08 70 L22 YouTube: study, etc.
 ZCZC W08 30 L27 Pets: feeding, playing, etc
 ZCZC W08 60 L03 GitHub related
 ZCZC W08 30 L23 Discord: discusion, etc
+ZCZC W09 60 L00 General Log
 
